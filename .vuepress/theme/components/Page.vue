@@ -112,7 +112,7 @@ export default {
         repo,
         editLinks,
         docsDir = '',
-        docsBranch = 'master',
+        docsBranch = 'main',
         docsRepo = repo
       } = this.$site.themeConfig
 
