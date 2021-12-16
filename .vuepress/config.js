@@ -13,7 +13,7 @@ module.exports = {
     // ],
   ],
   head: [
-    ['link', { rel: 'icon', href: '/images/ember_logo.svg' }]
+    ['link', { rel: 'icon', href: '/images/favicon.png' }]
   ],
   themeConfig: {
     logo: '/images/ember_logo.svg',
