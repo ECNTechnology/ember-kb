@@ -12,6 +12,11 @@ Anyone subscribed for ticket updates, will receive email notifications advising 
 
 No personal information will be sent via email.
 
+To find out how to check your subscriptions, click [here](https://kb.cadiz3.com.au/guides/ember/management_portals.html#account-management)
+
+
+
+
 ## Create a ticket
 You can create a Helpdesk ticket from within any service directly, by clicking the ‘**Open Support Ticket**’.
 
