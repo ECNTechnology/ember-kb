@@ -15,8 +15,51 @@ On this page you can manage the full number lifecycle for your numbers.
 ## Current Numbers & Orders
 View a list of all of your current numbers & active orders. 
 
+<img src="../../images/current_numbers.png" alt="Numbers and orders tile" title="Numbers and orders tile"/>
+
+Click the '**Current Numbers & Orders**' tile to begin.
+
+<img src="../../images/numbers_1.png" alt="Numbers and orders page" title="Numbers and orders page"/>
+
+On this page you can view all numbers on your account.
+
+You can filter by Service, Block Size, and Status.
+
+You can also view all the current number orders on your account by clicking the '**Current Orders**' button.
+
+
+
 ## Order new number
 Order new phone numbers.
+
+<img src="../../images/order_new_number_1.png" alt="Order New Number" title="Order New Number"/>
+
+Click the '**Order New Number**' tile to begin a new number order.
+
+#### Step 1Click the 'Current Numbers & Orders'.
+---
+<img src="../../images/order_new_number_2.png" alt="Order New Number Step 1" title="Order New Number Step 1"/>
+
+
+Select the Voice Service that you wish to order a new number for.
+
+Select the block size. (quantity of numbers).
+
+#### Step 2
+---
+
+<img src="../../images/order_new_number_3.png" alt="Order New Number Step 2" title="Order New Number Step 2"/>
+
+Click '**Address Search**'
+
+#### Step 4
+---
+
+<img src="../../images/order_new_number_4.png" alt="Address Validation Screen" title="Address Validation Screen"/>
+
+Enter your address into the search box at the top of the page.
+
+Once you have all information entered correctly, lick '**Search**'
 
 ## Vanity Numbers
 **What are Vanity Numbers?**
@@ -42,10 +85,48 @@ No waiting - Customers don’t have to wait until they have migrated their numbe
 ## Port Single Number
 Port a single number.
 
+<img src="../../images/port_single_1.png" alt="Port Single Number" title="Port Single Number"/>
+
+Click the '**Port Single Number**' tile to begin.
+
+#### Step 1
+
+<img src="../../images/port_single_2.png" alt="Port Single Number Validation" title="Port Single Number Validation"/>
+
+From the drop down list, select the Voice Service that you want to port the number(s) to.
+
+Enter the phone number you wish to port.
+
+Use the '**Invoice Upload**' button to upload a copy of your existing invoice for validation.
+
+Once you have all information entered correctly, click '**Validate And Continue**'.
+
+
 ## Port Complex Number/s
 Port one or more complex phone numbers for use with PBX & SIP Services
 
 This is used for Complex (Cat-C) Number Porting.
+
+<img src="../../images/complex_1.png" alt="Port Complex Numbers" title="Port Complex Numbers"/>
+
+Click the '**Port Complex Numbers**' tile to begin.
+
+#### Step 1
+
+<img src="../../images/complex_2.png" alt="Complex Number Porting Validation" title="Complex Number Porting Validation"/>
+
+Enter the following information:
+
+- Slect from the dropdown, the Voice Service you wish to port the numbers onto.
+
+- Select if the number is a '**Range**', '**Associated**', or '**Additional**' number. 
+
+To add another number, click <img src="../../images/complex_add.png" alt="add another number" title="add another number"/>
+
+To upload supporting documentation (strongly recommended), click <img src="../../images/complex_upload.png" alt="upload supporting documentation" title="upload supporting documentation"/>
+
+Once you have all numbers listed correctly, and your supporting documentation has been uploaded, click '**Validate and Continue**'.
+
 
 ## Port Number Validation
 Request a Port Number Validation (PNV) – Valid for 24h

@@ -377,6 +377,8 @@ Here you can choose to '**Place a New Order**', or '**View your existing Orders*
 
 Manage your existing phone numbers.
 
+To learn about Embers Number Management, click [here](https://kb.cadiz3.com.au/guides/ember/Number_Manager.html#current-numbers-orders)
+
 ### Nbn Internet
 
 Order Home nbn, Business nbn, or private Cloud Internet services.
