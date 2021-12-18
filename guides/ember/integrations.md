@@ -50,7 +50,7 @@ To create a new Integration, click ‘**Create New Integration**’.
 
  <img src="../../images/integration_1.png" alt="integrations" title="integrations"/>
 
-**Enter the following information:**
+Enter the following information:
 
 -	**Integration Name**: This is for your reference
 
@@ -82,7 +82,7 @@ To create a new Integration, click ‘**Create New Integration**’.
 
 A custom HTTP header can be added to requests, a typical request will start with X-, for example X-{myvalue}.
 
-**Enter the following information:**
+Enter the following information:
 
 -	**Request Name**: Name of the custom header value.
 -	**Request Value**: Value to be sent.
