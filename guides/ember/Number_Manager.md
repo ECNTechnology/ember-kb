@@ -28,7 +28,6 @@ You can filter by Service, Block Size, and Status.
 You can also view all the current number orders on your account by clicking the '**Current Orders**' button.
 
 
-
 ## Order new number
 Order new phone numbers.
 
@@ -36,7 +35,9 @@ Order new phone numbers.
 
 Click the '**Order New Number**' tile to begin a new number order.
 
-#### Step 1Click the 'Current Numbers & Orders'.
+#### Step 1
+
+Click the 'Current Numbers & Orders'.
 ---
 <img src="../../images/order_new_number_2.png" alt="Order New Number Step 1" title="Order New Number Step 1"/>
 
@@ -81,6 +82,28 @@ You can Add an existing phone number to your myCloudPBX service that isn't "host
 **Benefits of Vanity Numbers?**
 
 No waiting - Customers don’t have to wait until they have migrated their numbers to the new system, but can present their numbers as though they have already been processed, even though the migration process is still taking place.
+
+#### Adding A Vanity Number
+---
+
+<img src="../../images/vanity_1.png" alt="Add Vanity Number" title="Add Vanity Number" width="52%"/>
+
+Click the '**Vanity Numbers**' tile to begin.
+
+#### Step 1
+---
+
+<img src="../../images/vanity_2.png" alt="Add Vanity Number Step 1" title="Add Vanity Number Step 1" width="60%"/>
+
+Enter the following Information:
+
+- **Select Your Service**: This is the service you wish to add the vanity number to.
+
+- **Phone Number**: The phone number you wish to add.
+
+- **Select Your Country**: Australia, New Zealand.
+
+Click the '**Sumbit**' button when ready to proceed.
 
 ## Port Single Number
 Port a single number.
@@ -131,11 +154,75 @@ Once you have all numbers listed correctly, and your supporting documentation ha
 ## Port Number Validation
 Request a Port Number Validation (PNV) – Valid for 24h
 
+
+<img src="../../images/pnv_1.png" alt="Port Number Validation Tile" title="Port Number Validation Tile" width="52%"/>
+
+Click the '**Port Number Validation**' tile to begin.
+
+#### Step 1
+---
+
+<img src="../../images/pnv_2.png" alt="Port Number Validation Step 1" title="Port Number Validation Step 1" width="52%"/>
+
+
+Enter the following Information:
+
+- Select from the drop down list if the number is a Single, or a Range of Numbers.
+
+- Use the <img src="../../images/vanity_add_icon.png" alt="add another number" title="add another number" height="25px"/> and <img src="../../images/vanity_minus_icon.png" alt="remove number" title="remove number" height="25px"/> buttons to ensure all numbers have been added correctly.
+
+Once you have all numbers listed correctly, click '**Validate and Continue**'.
+
+#### Step 2
+---
+
 ## Move Number
 Move a phone number from one voice service to another.
+
+<img src="../../images/move_number_1.png" alt="Move Number Tile" title="Move Number Tile" width="52%"/>
+
+Click the '**Move Number**' tile to begin.
+
+#### Step 1
+---
+
+<img src="../../images/move_number_2.png" alt="Move Numbe Step 1" title="Move Numbe Step 1" width="52%"/>
+
+Enter the following information:
+
+- **Origin Server**: This is where the number currently resides.
+
+- **Select Phone Number**: This is the phone number you wish to move.
+
+#### Step 2
+---
+
+<img src="../../images/move_number_3.png" alt="Move Numbe Step 2" title="Move Numbe Step 2" width="52%"/>
+
+Select the new Voice Service for the number.
+
+Accept the Terms and Conditions.
+
+Once you have everything correct, click '**Continue**'.
+
+#### Step 3
+---
+
+<img src="../../images/move_number_4.png" alt="Move Numbe Step 3" title="Move Numbe Step 3"/>
+
+Review your changes before clicking '**Submit Order**'.
 
 ## Disconnect Number
 Cancel a phone number.
 
+<img src="../../images/disconnect_1.png" alt="Disconnect Number Tile" title="Disconnect Number Tile" width="52%"/>
+
+Click the '**Disconnect Number**' tile to begin.
+
+#### Step 1
+---
+
 ## Integrated Public Number Database (IPND)
 Update the IPND for a phone number.
+
+<div class="custom-block tip"><p class="custom-block-title"></p> <p> Coming Soon!</p></div>
