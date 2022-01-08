@@ -325,22 +325,6 @@ You will find setup instructions for your **_@ecn.net.au_** account for most com
 
 - - -
 
-### Mac - Outlook 365
-
-- - -
-
-::: tip
-Coming Soon!
-:::
-
-### Windows - Outlook 2019
-
-- - -
-
-::: tip
-Coming Soon!
-:::
-
 ### iPhone / iPad
 
 - - -
