@@ -20,7 +20,7 @@ You will receive an email allowing you to reset your password automatically.
 
 ## Ember landing page
 
-When you first login, you will be greeted by the landing page which gives you a quick overview of your Services, Billing, and the Cadiz3 Network Status.
+When you first login, you will be greeted by the landing page which gives you a quick overview of your Services, Billing, and the Cadiz<sup>3</sup> Network Status.
 
 Click on any of the tiles to quickly access the corresponding page.
 
