@@ -96,7 +96,7 @@ Enter the following information:
 
 * **Incoming Server:** mail.webconnect.com.au
 * **Incoming Server Port (IMAP):** 993 **or** 143
-* **Incoming Server Port (POP):** 110
+* **Incoming Server Port (POP):** 110 **or** 995
 * **Use SSL to connect :** This should be ticked only if you are using IMAP
 
 **Outgoing Mail Server**
@@ -310,6 +310,7 @@ Advanced users will be able to configure their WebNow email account using the fo
 
 * **Incoming Mail Server:** mail.webconnect.com.au
 * **Incoming Mail Server Port (IMAP):** 143 with TLS encryption
+* **Incoming Mail Server Port (POP):** 995 with TLS encryption
 * **Incoming Mail Server Port (POP):** 110 
 
 **Outgoing Mail Server Settings**
