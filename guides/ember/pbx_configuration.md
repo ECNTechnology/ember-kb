@@ -198,7 +198,7 @@ This alternate activity can be anything you like, such as a custom voicemail mes
 ### Configure Emergency Routing
 ----
 
-This guide assumes you are already logged into the myCloudPBX Management Portal and have selected your PBX.
+This guide assumes you are already logged into the EMBER Management Portal and have selected your PBX.
 
 The first thing you are going to do is select '_**Call Routing**_' from the PBX homepage.
 
