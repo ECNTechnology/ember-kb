@@ -12,7 +12,13 @@ General Internet Services Settings
 
 * **Server 1:** 202.3.111.123
 * **Server 2:** 202.3.111.124
+
+**Email Server Settings**
+
 * **Outbound Mail Server:** mail.ecn.net.au
+* **Port:** 25
+* **Authentication:** None
+* **Note:** Only available for users with an ECN IP Address.
 
 **Proxy Server**
 
