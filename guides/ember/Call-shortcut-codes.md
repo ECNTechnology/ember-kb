@@ -4,9 +4,9 @@ date: 2022-01-05T03:55:10.651Z
 ---
 # myCloudPBX Call Codes
 
-## Eavesdropping
+## Training Mode
 
-Eavesdropping enables the ability to listen, or 'eavesdrop‘ on a call. This is useful for call centre training operations where a supervisor or manager can listen in to an agents live call and provide realtime feedback.
+Training Mode enables the ability to listen, or 'eavesdrop‘ on a call. This is useful for call centre training operations where a supervisor or manager can listen in to an agents live call and provide realtime feedback.
 
 
 ## In-Call Shortcuts
