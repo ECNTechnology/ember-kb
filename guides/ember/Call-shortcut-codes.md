@@ -8,6 +8,8 @@ date: 2022-01-05T03:55:10.651Z
 
 Training Mode enables the ability to listen, or 'eavesdrop‘ on a call. This is useful for call centre training operations where a supervisor or manager can listen in to an agents live call and provide realtime feedback.
 
+Click <a href=" https://kb.cadiz3.com.au/guides/ember/Training_Mode.html">here</a> for more information.
+
 
 ## In-Call Shortcuts
 
