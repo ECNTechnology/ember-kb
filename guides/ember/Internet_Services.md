@@ -22,8 +22,11 @@ General Internet Services Settings
 
 **Proxy Server**
 
-* **Proxy Server Address:** proxy.ecn.net.au
+* **Proxy Server Address:** 203.22.70.5
 * **Port:** 80
+::: tip
+Proxy Server is only available for users whith an ECN provided Internet Connection
+:::
 
 ## Netcomm NF18ACV
 
