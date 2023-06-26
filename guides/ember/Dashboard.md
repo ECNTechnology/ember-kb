@@ -98,7 +98,9 @@ You can also see the 'queue type' listed here.
 Here you can see the following information:
 
 * **Total Calls:** Total number of calls entering this queue today.
-* **Lost Calls:** Number of calls that entered the queue today that hung up and were not answered. All  Lost calls shown here will also be visible on the Lost call report.
+* **Lost Calls:** The number of calls that entered this call queue today that were not answered. 
+The caller hung up before the call could either be answered, or the call could timeout to the Next Activity.
+All  Lost calls counted here will also be visible on the Lost call report.
 
 ::: tip
 
