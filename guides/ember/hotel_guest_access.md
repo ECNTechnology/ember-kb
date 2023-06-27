@@ -17,10 +17,9 @@ Each gest user will be provisioned with the same set of line keys (eg: 'Receptio
 <br>
 Use Cases: 
   - This type of user is perfect for use in a Hotel Room, where you want to configure a large group of users rapidly.
+  - School classrooms.
   - VoIP Cameras.
   - Doorbells & Gate Systems.
-<br>
-Due to the restrictions on available functionality, these users are charged at a lower rate to standard users.
 <br>
 
 
@@ -30,10 +29,9 @@ The first step is to enable the **'Hotel/Guest Access'** application for the PBX
 
 From the PBX Configuration screen, click ‘**Manage Applications**’. <img src="../../images/applications_icon.png" alt="applications icon" title="applications icon" height="50px"/>
 
+<img style="width: 800px; height: auto;" src="../../images/hotel_1.png">
 
 Once you have enabled the feature, you will see there is new icon for **'Hotel/Guest Access'** visible under the 'Active Applications' heading on the configuration page of the PBX.
-
-<img style="width: 800px; height: auto;" src="../../images/hotel_1.png">
 
 
 ## Configure Guest Access
@@ -66,7 +64,7 @@ To configure a Guest User, select '**Offices & Users**'  from the PBX Configurat
 
 Click on the '**+**' icon to add a new user, or select an existing extension if to modify.
 
-<img style="width: auto; height: auto;" src="../../images/hotel_4.png">
+<img style="width: auto; height: auto;" src="../../images/hotel_5.png">
 
 Enter the following information: 
 
