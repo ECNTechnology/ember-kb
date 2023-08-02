@@ -98,9 +98,7 @@ You can also see the 'queue type' listed here.
 Here you can see the following information:
 
 * **Total Calls:** Total number of calls entering this queue today.
-* **Lost Calls:** The number of calls that entered this call queue today that were not answered. 
-The caller hung up before the call could either be answered, or the call could timeout to the Next Activity.
-All  Lost calls counted here will also be visible on the Lost call report.
+* **Lost Calls:** The number of calls that entered this call queue today that were not answered. The caller hung up before the call could either be answered, or the call could timeout to the Next Activity. All Lost calls counted here will also be visible on the Lost call report.
 
 ::: tip
 
@@ -108,17 +106,16 @@ All  Lost calls counted here will also be visible on the Lost call report.
   
 :::
 
-* **Timed Out / Exits:** The number of calls that entered this call queue today, that either timed out to the next activity, or the caller selected to exit the queue. </br>
-It is possible for this call to have been answered elsewhere in another portion of the call flow outside of this queue. (or not answered at all)</br>
+* **Timed Out / Exits:** The number of calls that entered this call queue today, that either timed out to the next activity, or the caller selected to exit the queue. <br>
+It is possible for this call to have been answered elsewhere in another portion of the call flow outside of this queue. (or not answered at all) <br>
 These calls will not show as lost calls for this queue, but may be considered ‘lost’ in another queue.
-
 
 ::: tip
 
- A call that times out, is not classified as Lost for this call queue.
+A call that times out, is not classified as Lost for this call queue.
 
   :::
-* **Avg. Wait Time:** Average time callers waited prior to being answered (unanswered calls do not count toward this total).
+* **Avg. Wait Time:** Average time callers waited prior to being answered. (Unsanswered calls do not count toward this total)
 * **Avg. Talk Time:** Average time spent talking on calls answered in this queue.
 
 ### Agent Status Information
@@ -148,6 +145,29 @@ Each call queue will have it's own '**Waiting time**'.
 :::
 
 ## Call Reports
+
+
+### Call Reports FAQs
+
+**Why does the data in the '_Inbound Calls_' report, not match exactly with the data in the '_Total Calls report?_'**
+
+These reports are not reporting on the same data and are not built to be "compared" in this manner.
+
+The '**_Inbound Calls_**' report will show all _inbound calls_ to the phone system from external sources, regardless of if they are answered.
+
+You can filter this down to calls that were answered by filtering on the 'FirstUserToAnswer' column. If however, a call is transferred to another user, you will not see that in this report.
+
+The '**_Total Call Count_**' report, however shows all calls, including transferred calls. 
+You can generate the report with "Direction = In" which will show all of the calls, INCLUDING all of the talkers on the call. 
+
+::: tip Example:
+
+An inbound call that is answered by Bob Sacamano on ext 101, that is then transferred to Jay Riemen-schneider on ext 201.
+
+This will show as:
+ - _One_ inbound call on the '**Inbound Calls**' report.
+ - _Two_ inbound calls on the '**Total Call Count**' report.
+:::
 
 ### Reporting Terminology
 
@@ -304,7 +324,7 @@ The Inbound Calls _Summary Report_ summarises calls to Phone Numbers configured 
   </tr>
   <tr>
     <td> <br>AverageRingTimePerUser </td>
-    <td> <br>Average Time Users’ handsets rang prior to being answered for all Users who answered calls to the Target Number.  </td>
+    <td> <br>Average Time Users’ handsets rang prior to being answered for all Users who answered calls to the Target Number.</td>
   </tr>
   <tr>
     <td> <br>AverageCallTimeToAnswer </td>
@@ -312,7 +332,7 @@ The Inbound Calls _Summary Report_ summarises calls to Phone Numbers configured 
   </tr>
   <tr>
     <td> <br>TotalCallTimeToAnswer </td>
-    <td> <br>Aggregate Time calls to the Target Number spent in the myCloudPBX before being answered by the first user for each call, is included in this total. <br><br> This field is not yet populated and is reserved for future use.</td>
+    <td> <br>Aggregate Time calls to the Target Number spent in the myCloudPBX before being answered by the first user for each call, is included in this total. <br><br> This field is not yet populated and is reserved for future use.  </td>
   </tr>
   <tr>
     <td> <br>TotalVoicemail </td>
