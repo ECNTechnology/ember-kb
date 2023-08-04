@@ -1,8 +1,8 @@
 ---
-title: How to pay your bill.
+title: How To Pay Your Bill
 date: 2023-08-04T10:41:12.066Z
 ---
-# **How to pay your bill**
+# **How To Pay Your Bill**
 
 - - -
 
