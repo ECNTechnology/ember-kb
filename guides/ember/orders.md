@@ -33,14 +33,16 @@ The ‘New Orders’ page allows you to order a number of services.
 
 Order a new myCloudPBX service.
 
-#### Video
+#### Video Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7fqypndu4p8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7fqypndu4p8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
 <br>
+
 #### Steps
+<br>
 
 <img src="../../images/orders_mycloudpbx_1.png" alt="order myCloudPBX screen" title="order myCloudPBX screen" width="25%"/>
 
