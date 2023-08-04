@@ -14,12 +14,22 @@ Enter your ‘**Email**’ and ‘**Password**’ then click ‘**Login**’ to 
 
 ## Forgot your password?
 
+
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QZcIgYuA09Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<br>
+
 Click ‘**Forgot your password?**’ to reset your password. 
 
 You will receive an email allowing you to reset your password automatically.
 
 ## Ember landing page
-
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4E6tZYzj50w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
 When you first login, you will be greeted by the landing page which gives you a quick overview of your Services, Billing, and the Cadiz<sup>3</sup> Network Status.
 
 Click on any of the tiles to quickly access the corresponding page.
@@ -56,4 +66,10 @@ Click ‘**Save**’ when finished.
 The Hosted PBX Dashboard can be used to easily view statistics and pull reports from your PBX.
 
  <img src="../../images/dashboard.png" alt="dashboard login screen" title="dashboard login screen" width="50%" />
+
+
+
+
+
+
 
