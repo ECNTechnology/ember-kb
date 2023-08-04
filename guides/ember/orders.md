@@ -34,6 +34,7 @@ The ‘New Orders’ page allows you to order a number of services.
 Order a new myCloudPBX service.
 
 #### Video Tutorial
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7fqypndu4p8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -152,6 +153,15 @@ Your new PBX is now visible on the '**Services**' screen under the '**Voice**' t
 
 Order a new Business SIP service.
 
+
+#### Video Tutorial
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6UZFpkIBLfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Steps
+<br>
+
 <img src="../../images/orders_sip_1.png" alt="order business sip service screen" title="order business sip service screen" width="25%"/>
 
 Click the Business SIP tile to order a new Business SIP service.
@@ -254,6 +264,12 @@ Your new Business SIP service is now visible on the '**Services**' screen under 
 
 Order or port 1300 & 1800 numbers.
 
+#### Video Tutorial
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4UMCro0OI8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Steps
+<br>
 
 <img src="../../images/orders_1300_1.png" alt="order 1300/1800 screen" title="order 1300/1800 screen" width="25%"/>
 
@@ -393,6 +409,10 @@ To learn about Embers Number Management, click [here](https://kb.cadiz3.com.au/g
 ### Nbn Internet
 
 Order Home nbn, Business nbn, or private Cloud Internet services.
+
+#### Video Tutorial
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zlZqj1dwXqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Fibre Services
 
