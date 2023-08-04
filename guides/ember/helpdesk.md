@@ -22,7 +22,9 @@ To find out how to check your subscriptions, click [here](https://kb.cadiz3.com.
 
 <br>
 <br>
+
 ## Create a ticket
+
 You can create a Helpdesk ticket from within any service directly, by clicking the ‘**Open Support Ticket**’.
 
 You can also create by clicking ‘**Help Desk**’ from the menu at the top of the screen at any time.
