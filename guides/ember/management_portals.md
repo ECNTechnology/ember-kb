@@ -17,7 +17,7 @@ Enter your ‘**Email**’ and ‘**Password**’ then click ‘**Login**’ to 
 
 
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QZcIgYuA09Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QZcIgYuA09Y?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 <br>
@@ -30,7 +30,7 @@ You will receive an email allowing you to reset your password automatically.
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4E6tZYzj50w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4E6tZYzj50w?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -48,7 +48,7 @@ At the top right-hand corner of the screen, click on your ‘**Account**’ to m
 ### Video Tutorial
 <br>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hQwQRY_sJRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hQwQRY_sJRw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>

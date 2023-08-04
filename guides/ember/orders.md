@@ -36,7 +36,7 @@ Order a new myCloudPBX service.
 #### Video Tutorial
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7fqypndu4p8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7fqypndu4p8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -157,7 +157,7 @@ Order a new Business SIP service.
 #### Video Tutorial
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6UZFpkIBLfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6UZFpkIBLfQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Steps
 <br>
@@ -266,7 +266,7 @@ Order or port 1300 & 1800 numbers.
 
 #### Video Tutorial
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4UMCro0OI8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4UMCro0OI8Q?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Steps
 <br>
@@ -412,7 +412,7 @@ Order Home nbn, Business nbn, or private Cloud Internet services.
 
 #### Video Tutorial
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zlZqj1dwXqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zlZqj1dwXqI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Fibre Services
 
