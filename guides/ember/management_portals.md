@@ -45,7 +45,14 @@ Click on any of the tiles to quickly access the corresponding page.
 ## Account Management
 At the top right-hand corner of the screen, click on your ‘**Account**’ to modify your user details.
  
+### Video Tutorial
+<br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hQwQRY_sJRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<br>
+<br>
+### Steps
 
 <img src="../../images/myaccount.png" alt="account details" title="account details"/>
 
