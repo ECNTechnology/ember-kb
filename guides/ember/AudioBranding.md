@@ -4,10 +4,9 @@ date: 2023-07-05T04:12:37.159Z
 ---
 # Audio Branding
 
-#### Frequently Asked Questions
+# Frequently Asked Questions
 
 This page is intended to answer common questions from third party Audio Branding companies.
-
 
 
 ## Can you confirm the Make and Model of the Telephone system?
@@ -16,13 +15,13 @@ myCloudPBX is wholly owned and developed by our team at ECN/Cadiz3/Channel Haus.
 
 ## What details do you need for On-Hold Marketing, Auto Attendant, and Out of Hours productions?
 
-While we cannot discuss our customers specific configuration without specific authorisation, all PBXs provided by myCloudPBX come with 'Music on Hold' functionality, Auto Attendant, and Out of Hours compatability.
+While we cannot discuss our customers configuration without specific authorisation, all PBXs provided by myCloudPBX come with 'Music on Hold' functionality, Auto Attendant, and Out of Hours compatability.
 
-## Is myCloudPBX compatible with an external media player?
+## Is myCloudPBX compatible with external media players, online streaming services?
 
-myCloudPBX is not compatible with "external media players", for security and reliability we only support local media stored on our servers and do not access any remotely hosted media.
+For security and reliability we only support local media stored on our servers and do not access any remotely hosted media.
 
-## How are these features loaded onto the system?
+## How are audio files loaded onto the system?
 
 All files can be loaded via the EMBER Portal.
 
