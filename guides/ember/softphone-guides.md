@@ -53,7 +53,6 @@ The name will now be updated.
 
 **Description:** The myCloudPBX Softphone allows you to add other users on your PBX as contacts so you can monitor their call status.
 
-
 ### Adding a Contact
 
 **Step 1.** Click the '**Add Contact**' icon.
@@ -82,6 +81,26 @@ The name will now be updated.
 
 Click '**OK**' once all the data has been entered to finish.
 
+### Exporting your Contact List
+
+**Step 1.**
+
+From the apple menu at the top of your screen, select '**Contacts**', then '**Export Contacts**'.
+
+
+<img src="../../images/osx_exportcontacts_1.png"/>
+
+**Step 2.** Enter the following information:
+
+- 1. Contact List filename.
+- 2. Click 'Browse' and then specify where you wish to save the file.
+- 3. Click '**Export**' when ready. 
+  
+<img src="../../images/osx_exportcontacts_2.png"/>
+
+**Step 3.**
+
+When completed, click '**OK**' to finsh.
 
 
 ## Address Book - Windows
