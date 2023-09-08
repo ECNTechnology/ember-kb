@@ -102,6 +102,30 @@ From the apple menu at the top of your screen, select '**Contacts**', then '**Ex
 
 When completed, click '**OK**' to finsh.
 
+### Importing a Contact List
+
+**Step 1.**
+
+From the apple menu at the top of your screen, select '**Contacts**', then '**Import Contacts**'.
+
+<img src="../../images/osx_importcontacts_1.png"/>
+
+**Step 2.** 
+
+Click '**Browse**', and locate the file you wish to import.
+
+Make sure to select '**Subscribe to presence as specified by import source**'.
+
+Click '**Start Import**'.
+
+<img src="../../images/osx_importcontacts_2.png"/>
+
+**Step 3.**
+
+When completed, click '**OK**' to finsh.
+
+
+<img src="../../images/osx_importcontacts_3.png"/>
 
 ## Address Book - Windows
 
@@ -134,6 +158,8 @@ When completed, click '**OK**' to finsh.
 
 Click '**OK**' once all the data has been entered to finish.
 
+
+<img src="../../images/windows_addcontact_3.png"/>
 
 ### Exporting your Contact List
 
