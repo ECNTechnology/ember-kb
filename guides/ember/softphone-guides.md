@@ -49,6 +49,94 @@ You will then need to sign out of the softphone, and back in.
 
 The name will now be updated.
 
+
+
+## Address Book
+
+
+**Description:** The myCloudPBX Softphone allows you to add other users on your PBX as contacts so you can monitor their call status.
+
+### OSX
+
+#### Adding a Contact
+
+**Step 1.** Click the '**Add Contact**' icon.
+
+<img src="../../images/osx_addcontact_1.png"/>
+
+**Step 2a** Enter the following information for an _**External Speed Dial**_.
+
+- 1. The Full National Number of the person you wish to monitor (eg: 0731051300)
+- 2. Select '**Work, Home, or Mobile**' from the dropdown as shown.
+- 3. Enter in a '**Display Name**' for your reference.
+- 4. Click the '**+**' button.
+
+<img src="../../images/osx_addcontact_3.png"/>
+
+**Step 2a.** Enter the following information for an _**Internal Extension**_.
+
+- 1. The Extension Number of the person you wish to monitor (eg: 311)
+- 2. Select '**Softphone**' from the dropdown as shown.
+- 3. Enter in a '**Display Name**' for your reference.
+- 4. Click the '**+**' button.
+
+<img src="../../images/osx_addcontact_2.png"/>
+
+**Step 3.**
+
+Click '**OK**' once all the data has been entered to finish.
+
+
+### Windows
+
+#### Adding a Contact
+
+**Step 1.** From the main screen of the softphone, click '**Contacts**' and then from the drop down menu, '**Add Contact**'.
+
+<img src="../../images/add_contact_win1.png" width="350" />
+
+**Step 2a** Enter the following information for an _**External Speed Dial**_.
+
+- 1. The Full National Number of the person you wish to monitor (eg: 0731051300)
+- 2. Select '**Work, Home, or Mobile**' from the dropdown as shown.
+- 3. Enter in a '**Display Name**' for your reference.
+- 4. Click the '**Add**' button.
+ 
+<img src="../../images/windows_addcontact_3.png"/>
+
+**Step 2a.** Enter the following information for an _**Internal Extension**_.
+
+- 1. The Extension Number of the person you wish to monitor (eg: 311)
+- 2. Select '**Softphone**' from the dropdown as shown.
+- 3. Enter in a '**Display Name**' for your reference.
+- 4. Click the '**Add**' button.
+
+<img src="../../images/windows_addcontact_2.png"/>
+
+
+**Step 3.**
+
+Click '**OK**' once all the data has been entered to finish.
+
+
+#### Exporting your Contact List
+
+
+**Step 1.** From the main screen of the softphone, click '**Contacts**' and then from the drop down menu, '**Export Contacts**'.
+
+<img src="../../images/add_contact_win1.png" width="350" />
+
+**Step 2.** Specify CSV formatting.
+
+
+#### Importing a Contact List
+
+**Step 1.** From the main screen of the softphone, click '**Contacts**' and then from the drop down menu, '**Import Contacts**'.
+
+
+
+
+
 ## Windows Guides
 
 These guides will aim to demonstrate how to install and operate the MyCloudPBX softphone using a Windows PC.
@@ -175,28 +263,6 @@ The call has now been transferred to the other person.
 **Step 4.** You are now in a conference call. In order to separate the calls click on <img src="../../images/inconferencemoreoptions.jpg" width="25" />, followed by 'Separate'.
 
 <img src="../../images/Picture4-aciveconference.jpg" width="350" />
-
-### Adding Contacts
-
-**Description:** The myCloudPBX Softphone allows you to add other users on your PBX as contacts so you can monitor their call status.
-
-**Step 1.** From the main screen of the softphone, click '**Contacts**' and then from the drop down menu, '**Add Contact**'.
-
-<img src="../../images/add_contact_win1.png" width="350" />
-
-**Step 2.** Enter in the relevant information for your contact and then your contact's extension number in the box indicated below. Then click '**Add**'.
-
-<img src="../../images/add_contact_win2.png" width="550" />
-
-**Step 3.** Click '**OK**' to finish adding your contact.
-
-<img src="../../images/add_contact_win3.png" width="550" />
-
-**Step 4.** Your contact is now added.
-
-<img src="../../images/add_contact_win4.png" width="350" />
-
-
 
 ## Android Guides
 
