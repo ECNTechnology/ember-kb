@@ -149,8 +149,35 @@ Click '**Next**'.
 
 <img src="../../images/windows_importcontacts_1.png" />
 
+**Step 2.** Select '**Comma seperated values (*.csv file).**', then click '**Next**'.
 
 
+<img src="../../images/windows_importcontacts_2.png" />
+
+
+**Step 3.**
+
+Click '**Browse**' and select the file you wish to import.
+
+Click '**Next**'.
+
+
+<img src="../../images/windows_importcontacts_3.png" />
+
+**Step 4.**
+
+Make sure to select '**Subscribe to presence as specified by import source**'.
+
+Click '**Next**'.
+
+<img src="../../images/windows_importcontacts_4.png" />
+
+
+**Step 5.**
+
+Once the import is completed, click '**Finish**'.
+
+<img src="../../images/windows_importcontacts_5.png" />
 
 ## Windows Guides
 
