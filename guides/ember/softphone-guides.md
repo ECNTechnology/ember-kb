@@ -131,7 +131,10 @@ Click '**OK**' once all the data has been entered to finish.
 **Step 3.**
 
 Click '**Browse**' and select where you wish to save the file.
+
 Click '**Next**'.
+
+
 <img src="../../images/windows_exportcontacts_3.png" />
 
 **Step 4.** Once the export is completed, click '**Finish**'.
