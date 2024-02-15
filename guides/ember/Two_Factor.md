@@ -2,7 +2,7 @@
 title: 2 Factor Authentication (2FA)
 date: 2021-12-15T10:41:12.066Z
 ---
-# **2 Factor Authentication (2FA)**
+# 2 Factor Authentication (2FA)
 
 - - -
 
@@ -17,7 +17,7 @@ Upon signing into the Portal, you will be prompted to configure 2FA.
 
 Click the link to proceed to enable 2FA.
 
- <img src="../../images/2FA_1.png" alt="account details" title="2FA Prompt"/>
+<img src="../../images/2FA_1.png" alt="account details" title="2FA Prompt"/>
 
 **Step 1.**
 
@@ -32,7 +32,7 @@ Some Authenticator App options are:
 
 Once you have the authenticator installed on your phone, click '**Continue**' to Start the configuration process.
 
-  <img src="../../images/2FA_2.png" alt="account details" title="2FA Wizard"/>
+<img src="../../images/2FA_2.png" alt="account details" title="2FA Wizard"/>
 
 **Step 3.**
 
